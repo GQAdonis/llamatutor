@@ -1,10 +1,10 @@
 <a href="https://athena.prometheus-platform.io">
   <img alt="Athenia Tutor" src="public/og-image.png">
-  <h1 align="center">Llama Tutor</h1>
+  <h1 align="center">Athena Tutor</h1>
 </a>
 
 <p align="center">
-  An open source AI personal tutor. Powered by Llama 3 70B & Together.ai
+  An open source AI personal tutor. Powered by Prometheus Platform
 </p>
 
 ## Tech stack
