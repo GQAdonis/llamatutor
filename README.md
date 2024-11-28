@@ -15,6 +15,7 @@
 - Serper for the search API
 - Helicone for observability
 - Plausible for website analytics
+- Also supports the use of any OpenAI compatible LLM
 
 ## Cloning & running
 
