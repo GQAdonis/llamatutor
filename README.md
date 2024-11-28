@@ -1,5 +1,5 @@
-<a href="https://www.llamatutor.com">
-  <img alt="Llama Tutor" src="./public/og-image.png">
+<a href="https://athena.prometheus-platform.io">
+  <img alt="Athenia Tutor" src="public/og-image.png">
   <h1 align="center">Llama Tutor</h1>
 </a>
 
